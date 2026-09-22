@@ -622,8 +622,11 @@ This project is not affiliated with or endorsed by the creators of Rick and Mort
 
 **Youssef Tarek**
 
-Computer Science Student | Flutter Developer
+Computer Science Student & Mobile App Developer
 
-* GitHub: https://github.com/yousseftarekx2-tech
-* LinkedIn: https://www.linkedin.com/in/youssef-tarek-1bb895340
-* Portfolio: https://yousseftarekx2-tech.github.io/portfolio/
+* **GitHub:** https://github.com/yousseftarekx2-tech
+* **LinkedIn:** https://www.linkedin.com/in/youssef-tarek-1bb895340
+* **Portfolio:** https://yousseftarekx2-tech.github.io/portfolio/
+
+Built with Flutter and Dart.
+
